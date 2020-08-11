@@ -1,7 +1,7 @@
 ---
 lab:
-    title : 'Labo 01 : Découvrez Dynamics 365 Sales'
-    module : 'Module 03 : Présentation de Dynamics 365 Sales'
+    title: 'Labo 01 : Découvrez Dynamics 365 Sales'
+    module: 'Module 03 : Présentation de Dynamics 365 Sales'
 ---
 
 # MB-901 : Dynamics 365 Sales
@@ -29,7 +29,7 @@ lab:
 1. Dans le champ **Fonction**, saisissez **Gestionnaire de développement Xbox X-Series**.
 1. Dans le champ **Téléphone professionnel**, saisissez **949-555-1212**.
 1. Dans le champ **Adresse 1 : Rue 1**, saisissez **1 Microsoft Way**.
-1. Dans le champ **Adresse 1 : **Dans le champ **Ville**, saisissez **Redmond**.
+1. Dans le champ **Adresse 1 :** Dans le champ **Ville**, saisissez **Redmond**.
     - **Remarque :** si des données de la version de démonstration ont été téléchargées, le formulaire **Suggestions d’adresses** apparaîtra. Cliquez sur **OK**. Il remplira automatiquement les champs **Adresse 1**. 
 1. Dans le champ **Adresse 1 :** Dans le champ **État/Province**, saisissez **WA**.
 1. Dans le champ **Adresse 1 :** Dans le champ **Code postal**, saisissez **98007**.

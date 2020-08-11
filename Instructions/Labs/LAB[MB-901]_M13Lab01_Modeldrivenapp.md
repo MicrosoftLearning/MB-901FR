@@ -1,7 +1,7 @@
 ---
 lab:
-    title : 'Labo 01 : Créez votre première application basée sur un modèle à partir de zéro'
-    module : 'Module 13 : Connexion et analyse de vos données Dynamics 365'
+    title: 'Labo 01 : Créez votre première application basée sur un modèle à partir de zéro'
+    module: 'Module 13 : Connexion et analyse de vos données Dynamics 365'
 ---
 
 # MB-901 : Dynamics 365 Fundamentals

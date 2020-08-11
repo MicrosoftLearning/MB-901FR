@@ -1,7 +1,7 @@
 ---
 lab:
-    title : 'Labo 01 : Découvrez Dynamics 365 Finance'
-    module : 'Module 07 : Présentation de Dynamics 365 Finance'
+    title: 'Labo 01 : Découvrez Dynamics 365 Finance'
+    module: 'Module 07 : Présentation de Dynamics 365 Finance'
 ---
 
 # MB-901 : Dynamics 365 Fundamentals 

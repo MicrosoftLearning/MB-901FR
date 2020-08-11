@@ -1,7 +1,7 @@
 ---
 lab:
-    title : 'Labo 01 : Découvrez Dynamics 365 Supply Chain Management'
-    module : 'Module 08 : Présentation de Dynamics 365 Supply Chain Management'
+    title: 'Labo 01 : Découvrez Dynamics 365 Supply Chain Management'
+    module: 'Module 08 : Présentation de Dynamics 365 Supply Chain Management'
 ---
 
 # MB-901 : Dynamics 365 Fundamentals 
@@ -52,7 +52,7 @@ Dans la société **USMF**, vous devez créer un article (un T-shirt à col en V
 1. Dans le champ **Groupe de dimension de stockage**, sélectionnez **SiteWH**.
 1. Dans le champ **Groupe de dimension de suivi**, sélectionnez **Aucun**.
 1. Dans le champ **Unité de stock**, sélectionnez **EA** (pour chacun).
-1. Dans le champ **Unité d’achat **, sélectionnez **EA** (pour chacun).
+1. Dans le champ **Unité d’achat**, sélectionnez **EA** (pour chacun).
 1. Dans le champ **Unité de vente**, sélectionnez **EA** (pour chacun).
 1. Dans le champ **Unité de nomenclature**, sélectionnez **ea** (pour « each », chacun).
 1. Dans le champ **Imposition sur les ventes, Groupe de taxe d’article**, sélectionnez **TOUS** (tous les codes de taxe).
@@ -121,7 +121,7 @@ Il vous est demandé de créer une commande fournisseur pour Acme Office Supplie
 1. Remplacez la valeur du champ **Adresse de livraison** par **Contoso Entertainment System USA**.
 1. Sélectionnez la ligne correspondant à l’article **C0004** dans l’organiseur **Lignes de commande fournisseur**.
 1. Accédez à l’organiseur **Adresse.**  
-1. Cliquez sur le bouton **Ajouter une adresse** **(+)** situé à droite du champ ** Adresse de livraison**.
+1. Cliquez sur le bouton **Ajouter une adresse** **(+)** situé à droite du champ **Adresse de livraison**.
 1. **Nom ou description :** Entrez **Centre de tests de qualité**.
 1. **Code postal :** Entrez **83642**.
 1. **Rue :** Entrez **123, W. Cherry Street**.
