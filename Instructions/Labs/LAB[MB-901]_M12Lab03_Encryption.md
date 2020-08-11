@@ -1,11 +1,11 @@
 ---
 lab:
     title : 'Labo 03 : Améliorez la sécurité en chiffrant vos données'
-    module : 'Module 03 : Vérification de la sécurité de Dynamics 365'
+    module : 'Module 12 : Vérification de la sécurité de Dynamics 365'
 ---
 
 # MB-901 : Dynamics 365 Fundamentals
-## Module 3, Labo 3 : Améliorez la sécurité en chiffrant vos données
+## Module 12, Labo 3 : Améliorez la sécurité en chiffrant vos données
 
 **Scénario :** En tant qu’administrateur système, vous devez modifier et copier la clé de chiffrement de l’organisation.
 

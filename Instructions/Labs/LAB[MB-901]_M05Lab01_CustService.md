@@ -1,11 +1,11 @@
 ---
 lab:
     title : 'Labo 01 : Découvrez le service client Dynamics 365'
-    module : 'Module 07 : Présentation du service client Dynamics 365'
+    module : 'Module 05 : Présentation du service client Dynamics 365'
 ---
 
 # MB-901 : Dynamics 365 Fundamentals 
-## Module 7, Labo 1 - Découvrez le service client Dynamics 365 
+## Module 5, Labo 1 - Découvrez le service client Dynamics 365 
 
 **Conditions préalables :** Avant d’effectuer les étapes de ce labo, réalisez les tâches suivantes : 
 

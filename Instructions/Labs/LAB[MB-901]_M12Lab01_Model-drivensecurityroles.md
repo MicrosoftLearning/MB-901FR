@@ -1,11 +1,11 @@
 ---
 lab:
     title : 'Labo 01 : Découvrez les rôles de sécurité dans les applications basées sur un modèle Dynamics 365'
-    module : 'Module 03 : Vérification de la sécurité de Dynamics 365'
+    module : 'Module 12 : Vérification de la sécurité de Dynamics 365'
 ---
 
 # MB-901 : Dynamics 365 Fundamentals 
-## Module 3, Labo 1 - Explorez les rôles de sécurité dans les applications pilotées par modèle Dynamics 365
+## Module 12, Labo 1 - Explorez les rôles de sécurité dans les applications pilotées par modèle Dynamics 365
 
 **Scénario :** En tant qu’administrateur système, vous devez découvrir quels sont les rôles de sécurité prêts à l’emploi de Dynamics 365.
 

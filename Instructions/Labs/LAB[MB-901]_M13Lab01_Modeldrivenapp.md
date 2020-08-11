@@ -1,11 +1,11 @@
 ---
 lab:
     title : 'Labo 01 : Créez votre première application basée sur un modèle à partir de zéro'
-    module : 'Module 04 : Connexion et analyse de vos données Dynamics 365'
+    module : 'Module 13 : Connexion et analyse de vos données Dynamics 365'
 ---
 
 # MB-901 : Dynamics 365 Fundamentals
-## Module 4, Labo 1 : Créez votre première application basée sur un modèle à partir de zéro
+## Module 13, Labo 1 : Créez votre première application basée sur un modèle à partir de zéro
 
 **Scénario :** Vous devez créer une application basée sur un modèle en utilisant l’une des entités standard disponibles dans votre environnement Power Apps. Les applications basées sur un modèle ne s’exécutent pas dans l’application mobile Power Apps. Au lieu de cela, vous exécutez une application pilotée par modèle sur un appareil mobile à l’aide de l’application mobile Dynamics 365 ou dans le navigateur web du téléphone.
 

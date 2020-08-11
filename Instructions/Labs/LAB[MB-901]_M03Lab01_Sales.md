@@ -1,11 +1,11 @@
 ---
 lab:
     title : 'Labo 01 : Découvrez Dynamics 365 Sales'
-    module : 'Module 05 : Présentation de Dynamics 365 Sales'
+    module : 'Module 03 : Présentation de Dynamics 365 Sales'
 ---
 
 # MB-901 : Dynamics 365 Sales
-## Module 5, Labo 1 - Découvrez Dynamics 365 Sales
+## Module 3, Labo 1 - Découvrez Dynamics 365 Sales
 
 **Conditions préalables :** Avant d’effectuer les étapes de ce labo, réalisez les tâches suivantes :
 
