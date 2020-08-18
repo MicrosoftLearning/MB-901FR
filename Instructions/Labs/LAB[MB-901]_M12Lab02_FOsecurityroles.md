@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Labo 02 : Découvrez les rôles de sécurité dans les applications Dynamics 365 Finance and Operations'
-    module: 'Module 12 : Vérification de la sécurité de Dynamics 365'
+    module: 'Module 12 : Reconnaissance de la sécurité Dynamics 365'
 ---
 
 # MB-901 : Dynamics 365 Fundamentals

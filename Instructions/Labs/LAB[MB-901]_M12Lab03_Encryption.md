@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Labo 03 : Améliorez la sécurité en chiffrant vos données'
-    module: 'Module 12 : Vérification de la sécurité de Dynamics 365'
+    module: 'Module 12 : Reconnaissance de la sécurité Dynamics 365'
 ---
 
 # MB-901 : Dynamics 365 Fundamentals

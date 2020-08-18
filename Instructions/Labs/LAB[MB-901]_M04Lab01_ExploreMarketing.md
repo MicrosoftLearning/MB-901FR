@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Labo 01 : Découvrez Dynamics 365 Marketing'
-    module: 'Module 04 : Présentation de Dynamics 365 Marketing'
+    module: 'Module 04 : Présentation de Dynamics 365 Marketing'
 ---
 
 # MB-901 : Dynamics 365 Fundamentals 
