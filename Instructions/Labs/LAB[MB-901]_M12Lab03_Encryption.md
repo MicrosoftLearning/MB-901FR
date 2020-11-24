@@ -9,6 +9,8 @@ lab:
 
 **Scénario :** En tant qu’administrateur système, vous devez modifier et copier la clé de chiffrement de l’organisation.
 
+**Remarque :**  Étant donné que ce labo nécessite un accès administrateur à l’environnement, il devra être démontré par l’instructeur.
+
 ## Instructions
 
 1. Accédez au centre d’administration Power Platform.  

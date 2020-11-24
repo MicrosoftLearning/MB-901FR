@@ -1,19 +1,11 @@
 ---
 lab:
-    title: 'Labo 01 : Découvrez le service client Dynamics 365'
-    module: 'Module 05 : Présentation de Dynamics 365 Customer Service'
+    title: 'Labo 01 : Découvrez le service client Dynamics 365'
+    module: 'Module 05 : Présentation du service client Dynamics 365'
 ---
 
 # MB-901 : Dynamics 365 Fundamentals 
-## Module 5, Labo 1 - Découvrez le service client Dynamics 365 
-
-**Conditions préalables :** Avant d’effectuer les étapes de ce labo, réalisez les tâches suivantes : 
-
-**Facultatif :**
-1. Dans votre instance Dynamics 365, accédez à **Paramètres** > **Gestion des données**. 
-1. Sélectionnez **Exemple de données**. 
-1. Si les exemples de données ne sont pas installés, sélectionnez **Installer des exemples de données**. Les exemples de données peuvent mettre quelques minutes à apparaître, mais vous pouvez continuer à utiliser l’application pendant l’installation. 
-1. Sélectionnez **Fermer**. 
+## Module 5, Labo 1 : Découvrez le service client Dynamics 365 
 
 **Scénario :**
 En tant que représentant du service client, vous devez suivre vos demandes et problèmes clients en créant des cas de support dans le service client Dynamics 365. Lorsqu’un client contacte le support technique pour une question ou un problème, vous pouvez rapidement vérifier si ce type d’incident existe déjà ou ouvrir un nouvel incident et commencer à suivre le problème. Vous pouvez également faire remonter, réaffecter ou remettre un incident dans la file d’attente de service si vous n’avez pas suffisamment d’informations ou de temps pour y travailler.
@@ -29,10 +21,9 @@ Pour vous aider à sélectionner l’état correct d’un incident votre adminis
 1. Dans le **Concentrateur du service client**, accédez à **Service** > **Incidents**.
 1. Sélectionnez **Nouvel incident**.
 1. Dans le champ **Titre de l’incident**, tapez **Smart watch Seahorse**.
-1. Dans le champ **Clients**, sélectionnez **Fabrikam.** 
+1. Dans le champ **Client**, sélectionnez le client **Fabrikam** et sélectionnez un enregistrement existant pour le compte.
 1. Dans le champ **Description**, tapez **Problème avec la smartwatch**
 1. Cliquez sur l’onglet **Détails**.
-1. Dans le champ **Contact**, cliquez sur le bouton **Recherche de contact** et sélectionnez un contact existant pour l’incident ou sélectionnez **Nouveau** dans les résultats de la recherche en ligne pour créer un nouvel enregistrement de contact.
 1. Cliquez sur **Enregistrer**.
 1. Pour suivre votre conversation avec le client, dans la section **Chronologie**, cliquez sur **+** pour ajouter des informations et des activités.
 1. Cliquez sur **Remarque**.
