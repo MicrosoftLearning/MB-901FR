@@ -31,7 +31,7 @@ Exercice 1 - Accéder à l’application Dynamics 365
 
 2. Enregistrez vos identifiants d’utilisateur jusqu’au symbole **@** sur une feuille de papier ou dans le Bloc-notes. Il s’agira de l’alias de laboratoire que vous utiliserez pour différencier les données que vous créez au sein de l’organisation Dynamics 365 partagée. 
 
-**Important :** Sachez que ce locataire et l’organisation Dynamics 365 seront partagés avec les autres participants de votre classe, comme les employés partageraient un locataire lors de l’utilisation de l’instance Dynamics 365 appartenant à leur organisation. N’utilisez pas d’informations d’identification personnelle lors de la création d’enregistrements. Il est également recommandé d’utiliser votre préfixe de nom d’utilisateur (par exemple, « mollyc ») devant tous les enregistrements, données, applications, flux, etc. que vous créez.
+**Important :** Sachez que ce locataire et l’organisation Dynamics 365 seront partagés avec les autres participants de votre classe, comme les employés partageraient un locataire lors de l’utilisation de l’instance Dynamics 365 appartenant à leur organisation. N’utilisez pas d’informations d’identification personnelle lors de la création d’enregistrements. Il est également recommandé d’utiliser votre préfixe de nom d’utilisateur (par exemple, « **mollyc** ») devant tous les enregistrements, données, applications, flux, etc. que vous créez.
 
 3. N’hésitez pas à découvrir le centre d’administration Power Platform mais **n’apportez aucune modification.**
 
