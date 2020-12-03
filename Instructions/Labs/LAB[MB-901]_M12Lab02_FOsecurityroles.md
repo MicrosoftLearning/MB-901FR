@@ -13,7 +13,7 @@ lab:
 
 1. Accédez à **Administration système** > **Sécurité** > **Affecter des utilisateurs aux rôles**.
 1. Dans l’arborescence, sélectionnez **Commis à la comptabilité clients**.
-1. Cliquez sur **Affecter** / **exclure manuellement des utilisateurs**.
+1. Sélectionnez **Affecter** / **exclure manuellement des utilisateurs**.
 1. Dans la liste, sélectionnez un utilisateur.
 1. Sélectionnez **Exclure du rôle** pour exclure les utilisateurs sélectionnés du rôle.
 1. Pour supprimer les exclusions, sélectionnez les utilisateurs pour lesquels vous souhaitez supprimer les exclusions, puis sélectionnez **Rétablir le statut**. 
@@ -23,7 +23,7 @@ lab:
 **Scénario :** Le service des ressources humaines de l’USMF a demandé une règle de répartition des tâches pour qu’**Accéder à l’espace de travail d’avantages** soit en premier et **Approuver le journal de production** en deuxième. En tant qu’administrateur système, vous devez créer la règle.
 
 1. Accédez à **Administration système** > **Sécurité** > **Répartition des tâches** > **Règles de répartition des tâches**.
-1. Cliquez sur **Nouveau**.
+1. Sélectionnez **Nouveau**.
 1. Dans le champ **Nom**, tapez un nom unique pour cette règle.
 1. Dans le champ **Première responsabilité**, cliquez sur le bouton de liste déroulante pour lancer la recherche.
 1. Dans la liste, recherchez et sélectionnez la première responsabilité contrôlée par la règle.
@@ -36,4 +36,4 @@ lab:
 1. Dans le champ **Atténuation de sécurité**, tapez une valeur.
 1. Entrez une description des actions que vous prenez pour atténuer le risque de sécurité. 
 Par exemple, vous pouvez atténuer le risque en effectuant des évaluations plus détaillées du processus, en effectuant une révision mensuelle de la gestion ou en partageant les ressources avec d’autres services.
-1. Cliquez sur **Enregistrer**.
+1. Sélectionnez **Enregistrer**.

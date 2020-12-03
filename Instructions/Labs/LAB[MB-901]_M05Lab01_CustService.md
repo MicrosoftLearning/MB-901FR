@@ -23,16 +23,16 @@ Pour vous aider à sélectionner l’état correct d’un incident votre adminis
 1. Dans le champ **Titre de l’incident**, tapez **Smart watch Seahorse**.
 1. Dans le champ **Client**, sélectionnez le client **Fabrikam** et sélectionnez un enregistrement existant pour le compte.
 1. Dans le champ **Description**, tapez **Problème avec la smartwatch**
-1. Cliquez sur l’onglet **Détails**.
-1. Cliquez sur **Enregistrer**.
+1. Sélectionnez l’onglet **Détails**.
+1. Sélectionnez **Enregistrer**.
 1. Pour suivre votre conversation avec le client, dans la section **Chronologie**, cliquez sur **+** pour ajouter des informations et des activités.
-1. Cliquez sur **Remarque**.
+1. Sélectionnez **Remarque**.
 1. Dans le champ **Titre**, tapez **Défaut de la smart watch**.
 1. Dans le champ **Remarque**, tapez **Faire réparer**.
-1. Cliquez sur **Ajouter une remarque**. 
+1. Sélectionnez **Ajouter une remarque**. 
 14.	Pour savoir quel type de support vous devez fournir au client, cliquez sur le bouton **Recherche de droits d’utilisation** et sélectionnez un droit d’utilisation actif.
  **Remarque :** Si le client n’a aucun droit d’utilisation, cette zone sera vide.
-1. Cliquez sur **Enregistrer**.
+1. Sélectionnez **Enregistrer**.
 
 ### Trouver une solution à partir d’incidents similaires
 

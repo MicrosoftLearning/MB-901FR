@@ -9,10 +9,10 @@ lab:
 
 **Conditions préalables :** Avant d’effectuer les étapes de ce labo, réalisez les tâches suivantes : 
 1. Accédez à **Marketing** > **Fichiers**.
-1. Cliquez sur **Nouveau**.
-1. Cliquez sur **Ajouter des fichiers**.
+1. Sélectionnez **Nouveau**.
+1. Sélectionnez **Ajouter des fichiers**.
 1. Téléchargez au moins une image depuis votre bureau.
-1. Cliquez sur **Télécharger**.
+1. Sélectionnez **Télécharger**.
 1. Une fois le téléchargement terminé, cliquez sur **Terminé.**
 
 ### Créez des e-mails attrayants
